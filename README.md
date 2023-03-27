@@ -9,7 +9,7 @@ Written in Python, it's relatively easy for most machine learning developers to 
 
 
 # Installation 
-* Go to [PyTorch](https://pytorch.org/) and you should see a Installion area, simply choose the settings that fit you best, and use the pip command that is given.
+* Go to [PyTorch](https://pytorch.org/) and you should see a installation area, simply choose the settings that fit you best, and use the pip command that is given.
 * Then clone this repository or download it.
 
 # Usage

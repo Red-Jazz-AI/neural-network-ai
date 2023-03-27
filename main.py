@@ -55,6 +55,7 @@ def Predictions():
       img_tensor = ToTensor()(img).unsqueeze(0).to('cuda' if _isCuda else "cpu")
 
       print(torch.argmax(clf(img_tensor)))
+      
 
 def Train():
     for epoch in range(10): #** train for 10 epochs
@@ -75,6 +76,12 @@ def Train():
 
 
 if __name__ == "__main__":
-    #Predictions()
-    Train()
+    print("What do you want to do with the model?")
+    inpt = input("Train || Predictions: ").lower()
+    if inpt in ["train", "prediction", "training", "predictions", "1", "2"]:
+        if inpt in ["train", "training", "1"]:
+            Train()
+        if inpt in ["prediction", "predictions", "2"]:
+          Predictions()
+    
     #* Pick which one you want to do, usually do train first.

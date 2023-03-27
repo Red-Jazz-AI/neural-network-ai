@@ -47,6 +47,7 @@ Epoch: 9 loss is 1.362807051918935e-05
 All numbers and subject to change and will never be the same
 
 ## Predictions Function
+Results:
 ```bash
 tensor(2, device='cuda:0')
 tensor(0, device='cuda:0')

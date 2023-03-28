@@ -1,4 +1,4 @@
-# nerual-network-ai
+# neural-network-ai
 A simple AI trained to recognize numbers given in a image made using PyTorch.
 Protoype for future learning on [PyTorch](https://pytorch.org/)
 

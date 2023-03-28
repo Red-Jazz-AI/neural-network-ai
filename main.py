@@ -84,4 +84,4 @@ if __name__ == "__main__":
         if inpt in ["prediction", "predictions", "2"]:
           Predictions()
     
-    #* Pick which one you want to do, usually do train first.
+    #* Pick which one you want to do, usually do train first..

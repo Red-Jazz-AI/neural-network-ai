@@ -41,14 +41,8 @@ then simply run main.py
 Results:
  ```bash
 Epoch: 0 loss is 0.020522331818938255
-Epoch: 1 loss is 0.007157251238822937
-Epoch: 2 loss is 0.002288956893607974
-Epoch: 3 loss is 0.00022219565289560705
-Epoch: 4 loss is 0.00017017428763210773
-Epoch: 5 loss is 1.2876761502411682e-05
-Epoch: 6 loss is 2.205330247306847e-06
-Epoch: 7 loss is 5.923189974055276e-07
-Epoch: 8 loss is 4.0232922060567944e-07
+....
+
 Epoch: 9 loss is 1.362807051918935e-05
 ```
 All numbers and subject to change and will never be the same
